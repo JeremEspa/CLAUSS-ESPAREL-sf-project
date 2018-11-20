@@ -1,0 +1,3 @@
+index:
+    path: /
+    controller: /sf-project/src/Controller/SimpleController.php
